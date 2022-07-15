@@ -1,5 +1,7 @@
 # picosaur
-Dino runner for Raspberry Pi Pico on a 16x7 Pimoroni Unicorn display hat
+Dino runner for Raspberry Pi Pico on a 16x7 Pimoroni Unicorn Pack
 
-Requires Pimoroni MicroPython
-https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
+Requires Pimoroni MicroPython:
+https://github.com/pimoroni/pimoroni-pico/releases
+
+![demo](./preview.gif) 
